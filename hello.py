@@ -1,4 +1,4 @@
-x = dict(name="John", age=36)
+x = dict(name="John", age=36) "a"
 
 #display x:
 print(x)
